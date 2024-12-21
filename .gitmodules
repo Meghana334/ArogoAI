@@ -1,0 +1,6 @@
+[submodule "ShipmentDelayPrediction"]
+	path = ShipmentDelayPrediction
+	url = https://github.com/Meghana334/ShipmentDelayPrediction
+[submodule "ImageDescriptionWebApp"]
+	path = ImageDescriptionWebApp
+	url = https://github.com/Meghana334/ImageDescriptionWebApp
